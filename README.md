@@ -37,6 +37,12 @@
       - 실질적인 데이터 전송이 ROS Master를 거치지 않고 노드 간에 직접 이루어짐
 
       -> ROS는 효율적이고 확장 가능한 통신이 가능하기 때문에 ROS 기반의 통신 방법을 사용
+
+   - ### 실험 환경
+     
+    ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/4f6b8d06-58ce-4612-8cc4-f0c326fcd8e0)
+
+    [한밭대학교 산업정보관(N4) 6층]
     
     
 ## Case Study
