@@ -39,11 +39,10 @@
       -> ROS는 효율적이고 확장 가능한 통신이 가능하기 때문에 ROS 기반의 통신 방법을 사용
 
    - ### 실험 환경
-     
-    ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/4f6b8d06-58ce-4612-8cc4-f0c326fcd8e0)
 
-    [한밭대학교 산업정보관(N4) 6층]
-    
+     ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/af319e6f-a471-40c7-91d9-47dd4fa86fde)
+
+     [한밭대학교 산업정보관(N4) 6층]    
     
 ## Case Study
   - A. Guillen-Perez, R. Sanchez-Iborra, M. -D. Cano, J. C. Sanchez-Aarnoutse and J. Garcia-Haro, "WiFi networks on drones," 2016 ITU Kaleidoscope: ICTs for a Sustainable World (ITU WT), Bangkok, Thailand, 2016, pp. 1-8, doi: 10.1109/ITU-WT.2016.7805730
