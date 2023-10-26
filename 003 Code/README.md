@@ -1,7 +1,7 @@
 ## Source Code
 # ROS 기반의 통신 방법
 
-![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/1f614705-c0ee-43ca-b167-ca7f3b9601e1)
+![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/b5ed483e-7cb8-4d03-af96-40d8beb19523)
 
   - ROS 시스템의 데이터 통신은 토픽(Topic), 서비스(Service), 액션(Action) 등의 형태를 가짐
 
