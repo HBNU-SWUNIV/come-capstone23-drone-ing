@@ -52,7 +52,15 @@
   - D. Wu, X. Sun and N. Ansari, "A Cooperative Drone Assisted Mobile Access Network for Disaster Emergency Communications," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013813.
 
       - 모바일 사용자가 근처 기지국이 없을 경우 드론 탑재 기지국을 통해 기지국와 통신하는 알고리즘 설계
-  
+   
+  - S. -C. Choi, N. -M. Sung, J. -H. Park, I. -Y. Ahn and J. Kim, "Enabling drone as a service: OneM2M-based UAV/drone management system," 2017 Ninth International Conference on Ubiquitous and Future Networks (ICUFN), Milan, Italy, 2017, pp. 18-20, doi: 10.1109/ICUFN.2017.7993739.
+
+      - 드론, UAV를 사용하여 재난지역에서의 AD HOC네트워크 구축 및 택배와 같은 서비스를 지원하기 위한 oneM2M 기반 관제 및 관리 시스템 제시
+
+  - W. Belaoura, K. Ghanem and M. Z. Shakir, "On the Outage Performance of Drones-Aided Cooperative D2D communications systems," 2022 First International Conference on Computer Communications and Intelligent Systems (I3CIS), Jijel, Algeria, 2022, pp. 77-81, doi: 10.1109/I3CIS56626.2022.10075798.
+
+      - D2D 사용자 간의 통신을 개선하기 위해 드론을 이용한 새로운 D2D 통신 개념을 드론의 고도, 숫자 등 여러 매개변수의 영향을 조사하고 새로운 연구방향을 제시
+
 ## Conclusion
   - 데이터 처리시간 단축으로 저지연 통신 가능이 가능해진다.
   - 드론의 유연성과 이동성으로 광범위하고 빠르게 데이터 통신이 가능해진다.
