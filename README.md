@@ -31,6 +31,7 @@
     
 ## Case Study
   - WiFi networks on drones (드론을 이용한 공중 WIFI 네트워크를 배치하기 위해 두가지의 WIFI 모드를 비교하는 실험 및 연구)
+
     [출처 : http://lps3.ieeexplore.ieee.org.libproxy.hanbat.ac.kr/document/7805730]
  
   - ### Description
