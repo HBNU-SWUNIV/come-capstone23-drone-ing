@@ -21,7 +21,7 @@
 ## System Design
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
-![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/647dc463-9574-4b2c-9d8e-2279d7bcde63)
+![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/08e811b1-1941-48d8-ac60-9eb9aee806a9)
 
   - ### System Requirements
     - OOO
