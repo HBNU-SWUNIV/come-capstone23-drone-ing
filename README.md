@@ -18,7 +18,7 @@
 ## System Design
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
-![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/2c8db678-aace-4d61-a295-f3bca8dea31a)
+![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/c38f33ec-026e-4e31-9dcc-68222f1ac119)
 
 [아이디어 구상도]
 
