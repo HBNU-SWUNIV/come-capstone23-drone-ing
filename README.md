@@ -18,7 +18,13 @@
 ## System Design
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
+![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/2c8db678-aace-4d61-a295-f3bca8dea31a)
+
+[아이디어 구상도]
+
 ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/08e811b1-1941-48d8-ac60-9eb9aee806a9)
+
+[시스템 구상도]
 
   - ### System Requirements
     - Ubuntu 18.04
@@ -43,7 +49,12 @@
      ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/af319e6f-a471-40c7-91d9-47dd4fa86fde)
 
      [한밭대학교 산업정보관(N4) 6층]    
-    
+
+  - ### 제작된 드론
+
+     ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/c748b783-264f-4175-afd1-c70b907886dc)
+ 
+
 ## Case Study
   - A. Guillen-Perez, R. Sanchez-Iborra, M. -D. Cano, J. C. Sanchez-Aarnoutse and J. Garcia-Haro, "WiFi networks on drones," 2016 ITU Kaleidoscope: ICTs for a Sustainable World (ITU WT), Bangkok, Thailand, 2016, pp. 1-8, doi: 10.1109/ITU-WT.2016.7805730
 
