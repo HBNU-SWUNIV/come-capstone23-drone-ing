@@ -24,8 +24,10 @@
 ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/08e811b1-1941-48d8-ac60-9eb9aee806a9)
 
   - ### System Requirements
-    - OOO
-    - OOO
+    - Ubuntu 18.04
+    - Python 3.12
+    - Jetson Nano
+    - ROS Melodic
     
 ## Case Study
   - ### Description
