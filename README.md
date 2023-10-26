@@ -30,9 +30,9 @@
     - ROS Melodic
     
 ## Case Study
-  - WiFi networks on drones (드론을 이용한 공중 WIFI 네트워크를 배치하기 위해 두가지의 WIFI 모드를 비교하는 실험 및 연구)
+  - A. Guillen-Perez, R. Sanchez-Iborra, M. -D. Cano, J. C. Sanchez-Aarnoutse and J. Garcia-Haro, "WiFi networks on drones," 2016 ITU Kaleidoscope: ICTs for a Sustainable World (ITU WT), Bangkok, Thailand, 2016, pp. 1-8, doi: 10.1109/ITU-WT.2016.7805730
 
-    [출처 : http://lps3.ieeexplore.ieee.org.libproxy.hanbat.ac.kr/document/7805730]
+  - D. Wu, X. Sun and N. Ansari, "A Cooperative Drone Assisted Mobile Access Network for Disaster Emergency Communications," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013813.
  
   - ### Description
   
