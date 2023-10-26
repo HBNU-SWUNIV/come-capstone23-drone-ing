@@ -32,7 +32,11 @@
 ## Case Study
   - A. Guillen-Perez, R. Sanchez-Iborra, M. -D. Cano, J. C. Sanchez-Aarnoutse and J. Garcia-Haro, "WiFi networks on drones," 2016 ITU Kaleidoscope: ICTs for a Sustainable World (ITU WT), Bangkok, Thailand, 2016, pp. 1-8, doi: 10.1109/ITU-WT.2016.7805730
 
+      - 드론을 이용한 공중 WIFI 네트워크를 배치하기 위해 두가지의 WIFI 모드(2.4GHz, 5GHz)를 비교하는 실험 및 연구
+
   - D. Wu, X. Sun and N. Ansari, "A Cooperative Drone Assisted Mobile Access Network for Disaster Emergency Communications," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013813.
+
+      - 모바일 사용자가 근처 기지국이 없을 경우 드론 탑재 기지국을 통해 기지국와 통신하는 알고리즘 설계
  
   - ### Description
   
