@@ -10,7 +10,6 @@
   ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/11b9144c-cbab-4691-9134-1f8ff57fa8a1)
   ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/22c74bba-465a-4c69-877b-66a1db309159)
   [ 무선통신 이용 환경의 급격한 발전으로 인하여 서버가 부담해야하는 트래픽의 양이 계속해서 증가하고 있다. ]
-  [출처] https://www.etnews.com/20210315000170
 ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/2787ac3a-ef0e-4309-b455-b3fddf8626de)
 
   - Edge Computing 기술을 활용하여 응답시간을 개선하고 대역폭을 절약하기 위해 단말과 가까운 거리에 컴퓨팅 능력이 있는 연산 장치를 도입하는 분산 컴퓨팅 패러다임을 도입하여 트래픽의 양을 줄일 수 있다.
