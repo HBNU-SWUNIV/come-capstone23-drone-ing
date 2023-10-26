@@ -13,6 +13,6 @@
 
 # 실험 환경
 
-![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/dd0fb2eb-06f7-4650-8387-53f421ba10d5)
+![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/4f6b8d06-58ce-4612-8cc4-f0c326fcd8e0)
 
 [한밭대학교 산업정보관(N4) 6층]
