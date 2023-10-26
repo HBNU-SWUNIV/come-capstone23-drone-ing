@@ -52,8 +52,9 @@
 
   - ### 제작된 드론
 
-     ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/c748b783-264f-4175-afd1-c70b907886dc)
- 
+     ![image](https://github.com/HBNU-SWUNIV/come-capstone23-drone-ing/assets/100181494/36648d87-e725-4949-afd2-73140aa6853e)
+
+
 
 ## Case Study
   - A. Guillen-Perez, R. Sanchez-Iborra, M. -D. Cano, J. C. Sanchez-Aarnoutse and J. Garcia-Haro, "WiFi networks on drones," 2016 ITU Kaleidoscope: ICTs for a Sustainable World (ITU WT), Bangkok, Thailand, 2016, pp. 1-8, doi: 10.1109/ITU-WT.2016.7805730
